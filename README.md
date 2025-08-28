@@ -8,7 +8,7 @@ Built using Python, NLP, and Machine Learning techniques.
 
 [🔗Live Demo](https://emails-spam-checking-webapp-wuwj9xc4hkyarxrgm3s5qj.streamlit.app/)
 
-# ⚡ Live Video
+# ⚡Video
 
 <img width="880" height="450" src="https://github.com/subhadipsinha722133/Emails-Spam-Checking-Web_App/blob/main/demo.gif" alt="Python project demo">
 
