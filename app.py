@@ -62,6 +62,7 @@ st.markdown("""
 # App title
 st.markdown('<h1 class="main-header">📧 Spam Email Classifier</h1>', unsafe_allow_html=True)
 st.write("This application uses a neural network to classify emails as spam or ham (not spam).")
+st.write("Made By Subhadip 😎")
 
 # Sidebar
 st.sidebar.title("Navigation")
@@ -413,4 +414,5 @@ The model architecture includes:
 - Embedding layer
 - LSTM layer
 - Dense layers with ReLU and Sigmoid activations
+
 """)
